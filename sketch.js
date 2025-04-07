@@ -9,7 +9,7 @@ let font;
 let satzFontLight;
 let satzFontBold;
 let points;
-let word = "C 4 T A";
+let word = "H A L L O";
 let fontSize = 400;
 
 let numbSticks = 3;
